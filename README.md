@@ -1,1 +1,1 @@
-Creating a markdown file in git
+Adding a README.md file
